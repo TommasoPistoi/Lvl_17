@@ -382,7 +382,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 195, y: 18.59}
+  m_SizeDelta: {x: 126.3265, y: 18.59}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1671656976
 MonoBehaviour:
@@ -509,8 +509,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   clicksToChange: 3
   sprites:
-  - {fileID: -834737827249987490, guid: 6048dae7f0744f64ba3dd3c4ee951a9b, type: 3}
-  - {fileID: 1301596423967327426, guid: dc893c677ec429b479fa493e1d95e454, type: 3}
+  - {fileID: -5005094307115456416, guid: 5c986c7b2b662bb4a87d2b347531d78d, type: 3}
+  - {fileID: -487758476208076929, guid: 4c90f0fa0c530084786aed73ca93549e, type: 3}
+  - {fileID: 0}
   initialSpriteIndex: 0
 --- !u!1 &1775807581
 GameObject:
@@ -523,6 +524,7 @@ GameObject:
   - component: {fileID: 1775807584}
   - component: {fileID: 1775807583}
   - component: {fileID: 1775807582}
+  - component: {fileID: 1775807585}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -604,6 +606,50 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1775807585
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1775807581}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_RenderShadows: 1
+  m_RequiresDepthTextureOption: 2
+  m_RequiresOpaqueTextureOption: 2
+  m_CameraType: 0
+  m_Cameras: []
+  m_RendererIndex: -1
+  m_VolumeLayerMask:
+    serializedVersion: 2
+    m_Bits: 1
+  m_VolumeTrigger: {fileID: 0}
+  m_VolumeFrameworkUpdateModeOption: 2
+  m_RenderPostProcessing: 0
+  m_Antialiasing: 0
+  m_AntialiasingQuality: 2
+  m_StopNaN: 0
+  m_Dithering: 0
+  m_ClearDepth: 1
+  m_AllowXRRendering: 1
+  m_AllowHDROutput: 1
+  m_UseScreenCoordOverride: 0
+  m_ScreenSizeOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_ScreenCoordScaleBias: {x: 0, y: 0, z: 0, w: 0}
+  m_RequiresDepthTexture: 0
+  m_RequiresColorTexture: 0
+  m_Version: 2
+  m_TaaSettings:
+    m_Quality: 3
+    m_FrameInfluence: 0.1
+    m_JitterScale: 1
+    m_MipBias: 0
+    m_VarianceClampScale: 0.9
+    m_ContrastAdaptiveSharpening: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
