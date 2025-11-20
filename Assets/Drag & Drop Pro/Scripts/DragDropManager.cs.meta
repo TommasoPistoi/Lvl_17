@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 35a6a7e59382463498337002d659f9e5
+timeCreated: 1560698519
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148722
+  packageName: Drag & Drop Pro
+  packageVersion: 1.952
+  assetPath: Assets/Drag & Drop Pro/Scripts/DragDropManager.cs
+  uploadId: 691862
