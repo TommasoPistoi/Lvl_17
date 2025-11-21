@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ic-blank-weekly-calendar-landscape-template-37972_it_0: 6789929009238493255
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
