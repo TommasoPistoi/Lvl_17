@@ -12,4 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80f84203e10ca5d4ba0a3d5e54932b8a, type: 3}
   m_Name: Imprevisti
   m_EditorClassIdentifier: 
-  lines: []
+  lines:
+  - ciao balalalala
