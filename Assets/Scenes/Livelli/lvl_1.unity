@@ -355,6 +355,8 @@ GameObject:
   - component: {fileID: 557573733}
   - component: {fileID: 557573735}
   - component: {fileID: 557573734}
+  - component: {fileID: 557573737}
+  - component: {fileID: 557573736}
   m_Layer: 5
   m_Name: Money
   m_TagString: Untagged
@@ -480,6 +482,37 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 557573732}
   m_CullTransparentMesh: 1
+--- !u!114 &557573736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 557573732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: f2d6816ca3925da49bf27542534c78ea, type: 2}
+--- !u!114 &557573737
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 557573732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
 --- !u!1001 &595557983
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1560,8 +1593,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Start_Position","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"typeHandle":{"Identification":"UnityEngine.Vector3,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &1850146302
 MonoBehaviour:
@@ -2002,6 +2034,8 @@ PrefabInstance:
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Next_Level","value":{"$content":"lvl_2","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Social_Money","value":{"$content":30.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Sport_Money","value":{"$content":40.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 1061271033954828689, guid: b99c1c57fac88994c9bcc3177414baf9, type: 3}
@@ -2216,6 +2250,9 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 5663022768417720786, guid: b99c1c57fac88994c9bcc3177414baf9, type: 3}
+      insertIndex: 14
+      addedObject: {fileID: 1850146299}
+    - targetCorrespondingSourceObject: {fileID: 5663022768417720786, guid: b99c1c57fac88994c9bcc3177414baf9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 661242031}
     - targetCorrespondingSourceObject: {fileID: 5663022768417720786, guid: b99c1c57fac88994c9bcc3177414baf9, type: 3}
@@ -2227,9 +2264,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5663022768417720786, guid: b99c1c57fac88994c9bcc3177414baf9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 509822875}
-    - targetCorrespondingSourceObject: {fileID: 5663022768417720786, guid: b99c1c57fac88994c9bcc3177414baf9, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1850146299}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b99c1c57fac88994c9bcc3177414baf9, type: 3}
 --- !u!224 &8149189920060382843 stripped

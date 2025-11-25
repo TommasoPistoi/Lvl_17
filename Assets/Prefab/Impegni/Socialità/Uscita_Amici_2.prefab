@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: 8838184582261213200}
   m_Layer: 5
   m_Name: Uscita_Amici_2
-  m_TagString: Untagged
+  m_TagString: Less_Money
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
