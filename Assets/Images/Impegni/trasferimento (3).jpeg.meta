@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 661c1c6eed701f743bd51839e678858f
+guid: 0c3d3377d5e82ba469dd14faf87d7ac5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6610875226583077570
-    second: photo-1629968417850-3505f5180761_0
+      213: 7662055514479083234
+    second: trasferimento (3)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,30 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: photo-1629968417850-3505f5180761_0
+      name: trasferimento (3)_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 3000
-        height: 3855
+        width: 735
+        height: 413
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e3de511e1047144a0800000000000000
-      internalID: -6610875226583077570
+      spriteID: 2ee39d525e6155a60800000000000000
+      internalID: 7662055514479083234
       vertices: []
       indices: 
       edges: []
@@ -147,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      photo-1629968417850-3505f5180761_0: -6610875226583077570
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
