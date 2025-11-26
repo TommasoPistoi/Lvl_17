@@ -192,8 +192,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textComponent: {fileID: 3598255665629110778}
-  dialogueSO: {fileID: 11400000, guid: 5be5dcf214f140e4b8a5f86fedd18af1, type: 2}
-  textSpeed: 0.3
+  dialogueSO: {fileID: 0}
+  textSpeed: 0.4
 --- !u!1 &8717897441702281014
 GameObject:
   m_ObjectHideFlags: 0

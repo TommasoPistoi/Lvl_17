@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 80f84203e10ca5d4ba0a3d5e54932b8a, type: 3}
-  m_Name: Imprevisti
+  m_Name: UscitaAmici
   m_EditorClassIdentifier: 
   lines:
-  - ciao balalalala
+  - 'Dave: "Ragazzi quindi ci si trova da Gio?"'
