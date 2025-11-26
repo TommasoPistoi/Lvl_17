@@ -15,11 +15,32 @@ EditorBuildSettings:
     path: Assets/Scenes/Dialoghi.unity
     guid: 968ece89b367b5b4a8b7766ea6ace904
   - enabled: 1
+    path: Assets/Scenes/Livelli/lvl_0.unity
+    guid: d42798aea01117c4799143bb3cbedacc
+  - enabled: 1
+    path: Assets/Scenes/Livelli/lvl_1.unity
+    guid: 973107adf0ed3b6439191c97604dd20d
+  - enabled: 1
     path: Assets/Scenes/Livelli/lvl_2.unity
     guid: 9df81aa7f6b106a4783a89c3d0d04b7e
   - enabled: 1
-    path: Assets/Scenes/Livelli/lvl_2.unity
-    guid: aa190acc42cca384d86421f4bcbbebf9
+    path: Assets/Scenes/Livelli/lvl_3.unity
+    guid: 528e8a954e921ea48a73976430461aa1
+  - enabled: 1
+    path: Assets/Scenes/Livelli/lvl_4.unity
+    guid: fd28867aa712bdd4daa46de10ebafee2
+  - enabled: 1
+    path: Assets/Scenes/Livelli/lvl_5.unity
+    guid: 7eaa8ab53bd8a4948bb808375156c31f
+  - enabled: 1
+    path: Assets/Scenes/Livelli/lvl_6.unity
+    guid: b50d3755b24eb8043bc3cc9c7e53aa20
+  - enabled: 1
+    path: Assets/Scenes/Livelli/lvl_7.unity
+    guid: cc0dbc6dfce6abc44b653bf0caf4193b
+  - enabled: 1
+    path: Assets/Scenes/Livelli/Ending.unity
+    guid: 5db0a3aeb4731034d95679cb4023b3ec
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: d03ee5b7ecb55294489c78461ca32e7b, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
