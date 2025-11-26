@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: VisitaMedica
   m_EditorClassIdentifier: 
   lines:
-  - 'Promemoria: "Visita medica alle 13:00"'
+  - 'Promemoria: "Visita medica alle 12:00"'

@@ -1125,7 +1125,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textComponent: {fileID: 136825146}
-  dialogueSO: {fileID: 11400000, guid: 5be5dcf214f140e4b8a5f86fedd18af1, type: 2}
+  dialogueSO: {fileID: 11400000, guid: 616903b05df07624c9f59c0456ec79d4, type: 2}
   textSpeed: 0.05
 --- !u!114 &1276729862
 MonoBehaviour:

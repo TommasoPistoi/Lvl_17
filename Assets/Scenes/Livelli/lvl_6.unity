@@ -151,7 +151,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textComponent: {fileID: 902439790}
-  dialogueSO: {fileID: 11400000, guid: 5be5dcf214f140e4b8a5f86fedd18af1, type: 2}
+  dialogueSO: {fileID: 11400000, guid: 3c1aaae6edac1fe428f6412ef5b0e5f6, type: 2}
   textSpeed: 0.05
 --- !u!114 &58076273
 MonoBehaviour:
@@ -1060,8 +1060,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 18
+  m_fontSizeBase: 18
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
